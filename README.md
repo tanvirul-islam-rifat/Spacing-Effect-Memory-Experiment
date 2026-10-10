@@ -172,6 +172,6 @@ While reproducing the analysis, one transcription error was found in the submitt
 ## Author
 **Md. Tanvirul Islam Rifat**
 - **GitHub:** [@tanvirul-islam-rifat](https://github.com/tanvirul-islam-rifat)
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/YourLinkedInProfile)
+- **LinkedIn:** [Tanvirul Islam Rifat](https://www.linkedin.com/in/tanvirul-islam-rifat)
 
 **Research team:** Md. Tanvirul Islam Rifat · Reeham Zyaan Khan · Sushnato Drobonti · Al-Takian Bin Faruque
