@@ -1,0 +1,5 @@
+model,spaced_effect,ci95_low,ci95_high,p_value,n,r_squared
+M1: condition only,4.4444,3.0572,5.8317,0.0,36,0.5512
+M2: + gender,3.9742,2.525,5.4234,0.0,36,0.5895
+"M3: + gender, year, age",3.9673,2.5498,5.3847,0.0,36,0.6991
+M4: + researcher,3.9148,1.8356,5.994,0.0002,36,0.7045

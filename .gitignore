@@ -1,0 +1,21 @@
+# Raw, identifiable collection files must never be committed
+data/raw/
+private/
+*.xlsx
+*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+variable,test,statistic,p_value,detail
+gender,Fisher exact,0.1562,0.0599,"Female 2/8, Male 16/10 (massed/spaced)"
+year_of_study,chi-square,0.1678,0.9195,year 2: 6/7; year 3: 6/5; year 4: 6/6
+age,Welch t,-0.5378,0.5944,"mean age massed 23.89, spaced 23.72"
+researcher,allocation counts,,,R1: 5/5; R2: 5/5; R3: 3/3; R4: 5/5
